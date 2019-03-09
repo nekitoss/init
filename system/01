@@ -1,0 +1,4 @@
+/etc/debian_version
+#https://linuxconfig.org/check-what-debian-version-you-are-running-on-your-linux-system
+#cat /etc/issue
+#cat /etc/os-release

@@ -1,0 +1,3 @@
+cat /var/run/sshd.pid
+#ps aux | grep -e /usr/sbin/sshd | grep -v grep | tr -s " " | cut -d " " -f2
+#https://stackoverflow.com/questions/6867669/getting-pid-of-sshd

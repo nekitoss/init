@@ -1,0 +1,3 @@
+kill $(jobs -p)
+#other ways:
+#https://unix.stackexchange.com/questions/104821/how-to-terminate-a-background-process

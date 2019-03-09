@@ -1,0 +1,4 @@
+sudo hostnamectl set-hostname <name_for_rename>
+#you need also to edit hosts: 
+#sudo nano /etc/hosts
+#https://linuxize.com/post/how-to-change-hostname-on-debian-9/

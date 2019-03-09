@@ -1,0 +1,3 @@
+service ssh status
+#ps -aux | grep ssh
+#https://ubuntuforums.org/showthread.php?t=1543474

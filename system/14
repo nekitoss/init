@@ -1,0 +1,2 @@
+tail -f /var/log/syslog &
+#https://unix.stackexchange.com/questions/103731/run-a-command-without-making-me-wait

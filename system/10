@@ -1,0 +1,3 @@
+fdisk -l
+#9 commands can do that:
+#https://www.binarytides.com/linux-command-check-disk-partitions/

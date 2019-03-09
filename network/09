@@ -1,0 +1,6 @@
+163.172.250.11
+163.172.250.12
+163.172.250.13
+
+#nslookup 42.fr | grep 'Address:' | tail -n +2  |awk '{print $2}'
+#https://stackoverflow.com/questions/604864/print-a-file-skipping-first-x-lines-in-bash

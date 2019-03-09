@@ -1,0 +1,3 @@
+ifconfig -l
+#http://docs.kpda.ru/index.jsp?topic=%2Fru.kpda.doc.neutrino_utilities_ru%2Fi%2Fifconfig.html
+#networksetup -listallnetworkservices

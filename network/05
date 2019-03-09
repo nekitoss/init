@@ -1,0 +1,4 @@
+host slash.org | head -n1 | awk '{print $4}'
+#nslookup slash16.org | grep "Address: " | awk '{print $2}'
+#nslookup slash16.org | grep "Server: " | awk '{print $2}'
+#https://superuser.com/questions/299425/how-can-i-resolve-an-internal-ip-address-to-a-hostname-on-os-x

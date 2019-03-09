@@ -1,0 +1,2 @@
+find file that contains ip adress and DNS, preferably in one row. it will be '/etc/resolv.conf'
+#https://www.cyberciti.biz/faq/how-to-find-out-what-my-dns-servers-address-is/

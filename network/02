@@ -1,0 +1,5 @@
+ipconfig getifaddr en0
+#https://discussions.apple.com/thread/1230374?
+
+#ifconfig en0 | grep 'inet\b' | awk {'print $2'}
+#https://askubuntu.com/questions/560412/displaying-ip-address-on-eth0-interface/560415

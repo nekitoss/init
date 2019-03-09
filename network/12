@@ -1,0 +1,6 @@
+ping -c 4 10.51.1.253
+
+#endless:
+#ping 10.51.1.253 
+#with hops
+#traceroute 10.51.1.253
